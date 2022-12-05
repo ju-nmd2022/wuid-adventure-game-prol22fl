@@ -1,0 +1,58 @@
+body{
+    background-image: url(images/another.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.rainbowstick{
+    width:150px;
+    
+}
+
+.shinystick{
+    width:150px;
+    height:200px;
+}
+
+.silverstick{
+    width:150px;
+}
+
+.magicsticks{
+    margin-top: 200px;
+    margin-left: 700px;;
+}
+
+.correctstick{
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    background: none;
+}
+
+#anothertask{
+    background-color: rgb(44, 55, 45);
+    display: inline;
+    margin-left: 450px;
+    font-size: 50px;
+    margin-bottom: 500px;
+    font-weight: 400;
+    color: antiquewhite;
+}
+
+.wrongstick{
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    background: none;
+}
+
+.incorrectstick{
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    background: none;
+}
